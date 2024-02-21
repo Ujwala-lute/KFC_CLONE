@@ -11,3 +11,29 @@
     font-weight: bold;
     padding-left: 175px;
 }
+
+.footer-links{
+    font-family: REnosRough-Regular;
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+hr.horizontal-line{
+border-top: 2px solid #BDBDBD;
+}
+
+.products{
+	padding-left: 175px;
+	padding-right: 175px;
+}
+
+.card {
+    box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26);
+}
+
+.card-btn{
+	background-color: #E4002B;
+	color: white;
+	font-family: RenosRough-Regular;
+	float: right;
+}	
